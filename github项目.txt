@@ -1,0 +1,3 @@
+发过一个unity的破碎插件,仿照blender的原理使用ai辅助编写。
+
+https://github.com/XieRong666/XR-Unity-Plugins
